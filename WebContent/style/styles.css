@@ -1,0 +1,171 @@
+@CHARSET "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css?family=Anton|Arvo|Dancing+Script|Lobster|Mali|Pacifico|Spicy+Rice');
+body
+{
+	margin:0;
+	margin-top:0px;	
+	margin-bottom:10px;
+	background-color: #f6cad2;
+	overflow-x:hidden;
+	background-image: url("../images/fb.png");
+	background-repeat:repeat;
+		
+}
+
+.navbar
+{
+	background-color: #0a092b;
+	position:sticky;
+	top:0;
+	z-index:1;
+	
+}
+
+p
+{
+	color:#12bee3;
+}
+
+a
+{
+	color: #99df35;
+}
+
+.socList
+{
+	background-color: rgba(0,0,0,0.9) ;
+	color:#f4e8e7;
+	padding-top:50px;
+	padding-bottom:310px;
+	padding-left: 15px;
+	
+}
+
+.lower
+{
+	border: 1px solid white;
+}
+
+.inner-banner
+{
+	background-image:url('../images/index.jpg');
+	background-size: 1600px 450px;
+	height:450px;
+}
+
+.impLinks
+{
+	background-color:rgba(166,73,102,0.7);
+	font-size:16px;
+}
+
+.olink
+{
+	border-left:1px white solid;
+}
+
+.olink:hover
+{
+	background-color:rgba(0,0,0,0.6);
+	color:black;
+}
+.disclamer
+{
+	background-color:black;
+	color:#54ece8;
+	font-size:17px;
+}
+.link
+{
+	color:#1d4236;
+}
+
+
+
+.banner
+{
+	background-color:black;
+	position:sticky;
+	top:100px;
+}	
+li
+{
+	color:red;
+}
+.banner-content
+{
+	width:500px;
+	height:300px;
+	margin-left:410px;
+	padding-top:120px;
+}
+.banner-content-inner
+{
+	background-color:rgba(180,249,251,0.8);
+	padding:50px;
+}
+
+.sidebar
+{
+	background-color: rgba(0,0,0,0.8);
+	padding-top:20px;
+	padding-bottom:1050px;
+	color:white;
+}
+
+textarea
+{
+	width:900px;
+	height:200px;
+}
+
+.cap
+{
+	background-image: url("../images/captcha.jpg");
+	width:100px;
+	border: 1px black solid;
+	color: #b62828;
+	font-size:20px;
+	
+}
+
+th
+{
+	font-family: 'Arvo', serif;
+	font-size:16px;
+	background-color:#080f26;
+}
+.welcome
+{
+	font-family: 'Mali', cursive;
+}
+input,select
+{
+	background-color:	rgb(240,226,168)
+}
+.panel
+{
+	background-color:rgba(52,79,79,0.9);
+	color:white;
+	border: 5px ridge;
+	border-color:#9a8262;
+
+}
+.input
+{
+	color:black;
+}
+input, select {
+    background-color: white;
+    color: black;
+}
+.table
+{
+	border: 3px black ridge;
+	background-color:#222f5b;
+	color:white;
+}
+a:hover
+{
+	color:black;
+}
